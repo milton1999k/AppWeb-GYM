@@ -16,4 +16,4 @@ Application for gym registration
 
 -Pay table
 ============= 
-[pay-table.png](https://postimg.cc/Mn05093Q)
+[![pay-table.png](https://i.postimg.cc/2SMtDJ42/pay-table.png)](https://postimg.cc/Mn05093Q)
